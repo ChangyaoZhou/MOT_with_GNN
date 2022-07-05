@@ -1,0 +1,2 @@
+# MOT_with_GNN
+In this project, we will first develop an extension of the ReID-based tracker we created in the previous exercise that will make it more robust to occlusions by allowing it to recover from missed detections.  We will then implement a Message Passing Network from scratch, and we will use to build a model that will learn to combine position information and reid features to directly predict associations between past tracks and detections. We will use this model to create robust tracker.
